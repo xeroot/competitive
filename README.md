@@ -1,2 +1,2 @@
-# c-_template
-template for c++ competitive programing
+# Competitive Programming Repository
+template for c++ competitive programming
