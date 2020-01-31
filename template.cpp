@@ -1,11 +1,10 @@
 #include <bits/stdc++.h>
-#define ll long long //10^64
-#define ull unsigned long long //10^65
+#define ll long long //10^18
+#define ull unsigned long long //10^19
 using namespace std;
 int main() {
-  ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
+  //ios_base::sync_with_stdio(0);cin.tie(NULL);cout.tie(NULL);
   
-  // code here ...
-
+  
   return 0;
 }
